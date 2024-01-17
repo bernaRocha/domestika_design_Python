@@ -8,7 +8,7 @@ def setup():
     #eye(800, 190, 300, 0)
     for y in range(90, 600, 70):
         eye(width / 2, y, 160, 20)
-    save('imagens/resultado.png')
+    save('imagens/05_resultado.png')
     
     
     
